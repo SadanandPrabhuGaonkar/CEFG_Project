@@ -1,1 +1,1 @@
-# CEFG_Project
+Covid19 forum project for the community
